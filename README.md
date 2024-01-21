@@ -12,9 +12,24 @@
 </div>
 <br>
 
-## Overview
-
 Hey there! 👋 This repository documents my exciting journey into game development using Unity. Coming from a web development background, I decided to explore the possibilities of creating immersive games, and boy, was it an adventure!
+
+## Table of Contents
+
+- [Overview](#overview)
+- [What's Inside the Course](#whats-inside-the-course)
+- [Technologies Used](#technologies-used)
+- [How to Play](#how-to-play)
+  - [Web Version](#web-version)
+  - [Desktop Version](#desktop-version)
+  - [General Controls](#general-controls)
+- [Getting Started](#getting-started)
+- [Connect with Me](#connect-with-me)
+- [Acknowledgment](#acknowledgment)
+
+
+## Overview
+Embark on an adventure with Unity.Game, a project born from the successful completion of an engaging Unity game development course. This journey spans from mastering the basics to creating a fully-fledged video game. Transitioning from HTML, CSS, and JavaScript to Unity and C#, the course covers essential aspects such as a physics sandbox, user input handling, UI design, materials, lighting, post-processing effects, and more.
 
 ## What's Inside the Course?
 
