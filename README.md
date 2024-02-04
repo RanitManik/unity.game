@@ -94,7 +94,7 @@ Feel free to reach out if you have questions or just want to chat about game dev
 Happy coding! 🎉
 
 
-# Acknowledgment 
+## Acknowledgment 
 
 I would like to express my gratitude and appreciation to the esteemed instructor, Nick Pettit, as well as the incredible platform, Frontendmaster, for generously providing the enlightening course titled "Game Development with Unity for Web Developers." This course has been an invaluable resource for me, equipping me with the necessary skills and knowledge to dive into the captivating world of game development with Unity. I am also thrilled to share that I have successfully completed the course and have created an amazing game! The final game can be experienced first-hand through the following live link: [Unity.Game Live Link](https://ranitmanik.github.io/unity.game/). Please feel free to check it out and immerse yourself in the exciting gameplay and immersive graphics that I have poured my heart and soul into. Thank you once again to Nick Pettit, Frontendmaster, and the entire team for this extraordinary opportunity.
 
